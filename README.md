@@ -6,3 +6,5 @@ JTAG通信は、サポートされているすべてのプラットフォーム�
 Invoke-WebRequest 'https://dl.espressif.com/dl/idf-env/idf-env.exe' -OutFile .\idf-env.exe; .\idf-env.exe driver install --espressif
 
 https://docs.espressif.com/projects/esp-idf/en/latest/esp32s3/api-guides/jtag-debugging/configure-builtin-jtag.html
+
+<img width="1005" height="465" alt="image" src="https://github.com/user-attachments/assets/0811a41f-662d-4c9d-82a9-3c0809a66f78" />
